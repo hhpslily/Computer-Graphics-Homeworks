@@ -1,0 +1,14 @@
+../../../TextureModels/cube.obj
+../../../TextureModels/Digda.obj
+../../../TextureModels/duck.obj
+../../../TextureModels/Fushigidane.obj
+../../../TextureModels/Golonya.obj
+../../../TextureModels/Hitokage.obj
+../../../TextureModels/laurana500.obj
+../../../TextureModels/Mew.obj
+../../../TextureModels/Nala.obj
+../../../TextureModels/Nyarth.obj
+../../../TextureModels/satellitetrap.obj
+../../../TextureModels/teemo.obj
+../../../TextureModels/texturedknot.obj
+../../../TextureModels/Zenigame.obj

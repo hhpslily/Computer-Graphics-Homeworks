@@ -1,0 +1,173 @@
+﻿  textfile.cpp
+  Matrices.cpp
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\matrices.cpp(457): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\matrices.cpp(458): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  main.cpp
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\main.cpp(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\main.cpp(153): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\main.cpp(216): warning C4018: '<': signed/unsigned 不相符
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\main.cpp(223): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\main.cpp(228): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\main.cpp(200): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'std::string'
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\main.cpp(599): warning C4018: '<': signed/unsigned 不相符
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\main.cpp(650): warning C4018: '<': signed/unsigned 不相符
+  glm.cpp
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(187): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(530): note: 請參閱 'strdup' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(232): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(530): note: 請參閱 'strdup' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(301): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(302): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(303): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(305): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(306): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(307): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(260): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 請參閱 'strcpy' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(261): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(264): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(274): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(283): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(314): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(530): note: 請參閱 'strdup' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(318): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(326): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(328): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(530): note: 請參閱 'strdup' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(332): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(338): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(349): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(355): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(399): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 請參閱 'strcpy' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(400): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(455): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(486): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(487): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(530): note: 請參閱 'strdup' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(493): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(511): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(515): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(516): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(517): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(520): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(524): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(526): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(527): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(530): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(534): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(536): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(537): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(540): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(546): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(547): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(550): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(613): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(622): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(627): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(629): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(638): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(645): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(654): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(671): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(675): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(678): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(681): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(686): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(696): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(701): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(705): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(711): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(724): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(728): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(731): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(736): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(748): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(750): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(752): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(756): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 請參閱 'fscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(831): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(832): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(833): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(836): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1036): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1374): warning C4018: '<': signed/unsigned 不相符
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1335): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1345): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(530): note: 請參閱 'strdup' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1462): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1518): warning C4477: 'fprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'GLfloat *'
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1833): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1854): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1856): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+f:\cghw3\studentid_hw_x\cg_hw1\cg_hw1\glm.cpp(1858): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+  正在產生程式碼...
+  CG_HW1.vcxproj -> F:\CGHW3\StudentID_HW_x\CG_HW1\Debug\CG_HW1.exe
+  CG_HW1.vcxproj -> F:\CGHW3\StudentID_HW_x\CG_HW1\Debug\CG_HW1.pdb (Partial PDB)
