@@ -1,0 +1,6 @@
+../../../ColorModels/bunny5KC.obj
+../../../ColorModels/blitzcrank_incognito.obj
+../../../ColorModels/ziggs.obj
+../../../ColorModels/teapot4KC.obj
+../../../ColorModels/maxplanck20KC.obj
+../../../ColorModels/elephant16KC.obj
