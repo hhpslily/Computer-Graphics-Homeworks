@@ -1,0 +1,8 @@
+../../../NormalModels/High/brain18KN.obj
+../../../NormalModels/High/Dino20KN.obj
+../../../NormalModels/Low/boxN.obj
+../../../NormalModels/Low/icosahedronN.obj
+../../../NormalModels/Low/sphereN.obj
+../../../NormalModels/Medium/heptoroid8KN.obj
+../../../NormalModels/Medium/santa7KN.obj
+../../../NormalModels/Medium/teapot4KN.obj
